@@ -1,0 +1,250 @@
+    1  pwd
+    2  ls
+    3  scp 44 w2@10.0.2.15:/home/wangxuewen/ceshi
+    4  scp 44 wangxuewen@10.0.2.15:/home/wangxuewen/ceshi
+    5  exit
+    6  sudo touch 545
+    7  touch 44
+    8  ls -l | find name w2
+    9  ls -l | find name sudoers
+   10  cat /etc/passwd
+   11  cd ~
+   12  touch 44
+   13  sudo touch 545
+   14  su xiaohua
+   15  exit
+   16  cd
+   17  ls- l
+   18  ls -l
+   19  cal 
+   20  cal -y
+   21  date '+%y%m%d%H%M%S
+   22  date '+%y%m%d%H%M%S
+   23  date '+%y%m%d%H%M%S
+   24  '
+   25  date '+%y年%m月%d日%H时%M分%S秒'
+   26  exit
+   27  cd
+   28  pwd
+   29  ls -l
+   30  su wangxuewen
+   31  exit
+   32  cd 
+   33  cd ..
+   34  ls -l
+   35  su wangxuewen
+   36  exit
+   37  cd
+   38  cd p1804
+   39  ls
+   40  cd xiaofang
+   41  tree xiaofang
+   42  tree /home/w2/xiaofang
+   43  cd home
+   44  pwd\
+   45  pwd
+   46  cd ..
+   47  pwd
+   48  cd ..
+   49  ls -l
+   50  scp /home wangxuewen@10.0.2.15:/home/wangxuewen/test
+   51  scp /home * wangxuewen@10.0.2.15:/home/wangxuewen/test.txt
+   52  scp -r /home * wangxuewen@10.0.2.15:/home/wangxuewen/test.txt
+   53  scp -r /home * wangxuewen@10.0.2.15:test.txt
+   54  scp -r /home * wangxuewen@10.0.2.15:/home/wangxuewen/test.py 远程下载
+   55  scp -r /home * wangxuewen@10.0.2.15:/home/wangxuewen/test.py 
+   56  su wangxuewen
+   57  exit
+   58  cd ~
+   59  scp /home/wangxuewen * wangxuewen@10.0.2.15:p1804
+   60  pwd
+   61  mkdir -p xiaofang/xiaoli/amao/agou
+   62  su wangxuewen
+   63  exit
+   64  cd
+   65  pwd
+   66  ls -l
+   67  mkdir p1804
+   68  cd p1804
+   69  touch nv1 nv2
+   70  cd
+   71  ls -l
+   72  scp p1804 wangxuewen@10.0.2.15: 
+   73  ssh wangxuewen@10.0.2.15
+   74  scp -r p1804 wangxuewen@10.0.2.15: 
+   75  ssh wangxuewen@10.0.2.15
+   76  ls -l
+   77  vir
+   78  vim 
+   79  vim 223 
+   80  exit
+   81  cd ~
+   82  ls -l
+   83  su wangxuewen
+   84  su wangxuewen123456
+   85  su wangxuewen
+   86  ls -l
+   87  exit
+   88  su w2
+   89  exit
+   90  scp -r w2@10.0.2.15: /home/w2/p1804 /home/wangxuewen/loading2
+   91  scp w2@10.0.2.15: /home/w2/44 /home/wangxuewen/loading2
+   92  scp -r w2@10.0.2.15: /home/w2/a /home/wangxuewen/loading2
+   93  ls -l
+   94  cd loading2
+   95  ls -l
+   96  scp -r a w2@10.0.2.15: /home/w2
+   97  sudo scp -r a w2@10.0.2.15: /home/w2
+   98  scp -r w2@10.0.2.15: /home/w2/p002 /home/wangxuewen
+   99  cd
+  100  rm -r *
+  101  exit
+  102  mkdir loading
+  103  scp w2@10.0.2.15:/home/w2/1.txt /home/wangxuewen/laoding
+  104  scp w2@10.0.2.15: /home/w2/1.txt /home/wangxuewen/laoding
+  105  scp w2@10.0.2.15:/home/w2/1.txt /home/wangxuewen/laoding
+  106  scp -r loading w2@10.0.2.15:/home/w2
+  107  scp w2@10.0.2.15:/home/w2/1.txt /home/wangxuewen/laoding AS
+  108  scp w2@10.0.2.15:/home/w2/1.txt /home/wangxuewen/laoding
+  109  ifconfig
+  110  inti 6
+  111  init 6
+  112  su w2
+  113  init 0
+  114  ls
+  115  scp w2@10.0.2.15:/home 666
+  116  scp w2@10.0.2.15:/home /home/wangxuewen
+  117  scp w2@10.0.2.15:/home/* /home/wangxuewen
+  118  scp -r w2@10.0.2.15:/home/* /home/wangxuewen
+  119  cd ..
+  120  ls -l
+  121  cd ..
+  122  pwd
+  123  find /-name usr
+  124  cn usr
+  125  count usr
+  126  ps -aux | grep 8804
+  127  git status
+  128  grep *a *
+  129  cd ./home/wangxuewen/
+  130  pwd
+  131  grep *a loaidng
+  132  ls -l
+  133  cd wangxuewen
+  134  ls -l
+  135  cd wangxuewen
+  136  ls -l
+  137  cd wangxuewen
+  138  cd ~
+  139  rm -rf wangxuewen
+  140  ls -l
+  141  cd w2
+  142  ls -l
+  143  grep *t 1.txt
+  144  grep 'a' 1.txt
+  145  mkdir p07
+  146  cd p07
+  147  python
+  148  ipython
+  149  sudo apt install ipython
+  150  ipython
+  151  vim ~/.vim
+  152  vi vim
+  153  vi .vim
+  154  vim ~/.vim
+  155  vi vim
+  156  vim helloworld.py
+  157  vi helloworld.py
+  158  ipython helloworld.py
+  159  vim helloworld.py
+  160  ipython helloworld.py
+  161  vim helloworld.py
+  162  ipython helloworld.py
+  163  vim helloworld.py
+  164  vim ~/.vim
+  165  vim ~/.vimrc
+  166  vim helloworld.py
+  167  ipython helloworld.py
+  168  vim helloworld.py
+  169  ipython helloworld.py
+  170  vim ~/.vimrc
+  171  vim helloworld.py
+  172  ipython helloworld.py
+  173  vim helloworld.py
+  174  ipython helloworld.py
+  175  vim helloworld.py
+  176  ipython helloworld.py
+  177  vim helloworld.py
+  178  ipython helloworld.py
+  179  ipython3 helloworld.py
+  180  python3 helloworld.py
+  181  ipython
+  182  vi yunsuan.py
+  183  ipython helloworld.py
+  184  python yunsuan.py
+  185  vi yunsuan.py
+  186  python yunsuan.py
+  187  vim helloworld.py
+  188  vim yunsuan.py
+  189  python yunsuan.py
+  190  vim yunsuan.py
+  191  ipython
+  192  vim yunsuan.py
+  193  python yunsuan.py
+  194  cd
+  195  la -l
+  196  ls
+  197  mkdir python
+  198  mv p07 python
+  199  ls
+  200  cp python git_workspace
+  201  cp -r python git_workspace
+  202  ls
+  203  cd git_workspace
+  204  ls
+  205  git add python
+  206  git commt -m 'python的运算'
+  207  git commit -m 'python的运算'
+  208  git push -u origin master
+  209  cd ./python
+  210  cd ..
+  211  cd python
+  212  cd p07
+  213  ls
+  214  vi yunsuan.py
+  215  python yunsuan.py
+  216  vi yunsuan.py
+  217  python yunsuan.py
+  218  vi yunsuan.py
+  219  python yunsuan.py
+  220  vi yunsuan.py
+  221  python yunsuan.py
+  222  vi yunsuan.py
+  223  python yunsuan.py
+  224  vi yunsuan.py
+  225  cd ../../git_workspace
+  226  ls
+  227  which python
+  228  ls -lh /usr/bin/python
+  229  ls -lh /usr/bin/python3
+  230  ls -lha /usr/bin/python3
+  231  vim yunsuan.py
+  232  rm yunsuan.py
+  233  vim yunsuan.py
+  234  python yunsuan.py
+  235  vim yunsuan.py
+  236  python yunsuan.py
+  237  vim yunsuan.py
+  238  python yunsuan.py
+  239  vim yunsuan.py
+  240  python yunsuan.py
+  241  python3 yunsuan.py
+  242  vim yunsuan.py
+  243  python3 yunsuan.py
+  244  vim yunsuan.py
+  245  yunsuan.py > .1yunsuan,py
+  246  yunsuan.py > 1yunsuan,py
+  247  yunsuan.py > 1yunsuan.py
+  248  history > .历史.txt
+  249  ls
+  250  history > .历史.txt
